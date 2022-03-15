@@ -7,6 +7,7 @@ namespace Nauja_Repozitorija
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Pakoregavau MAIN'a sukures branch1");
         }
     }
 }
