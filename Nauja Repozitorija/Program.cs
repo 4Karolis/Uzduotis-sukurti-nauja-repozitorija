@@ -12,6 +12,9 @@ namespace Nauja_Repozitorija
 
             Console.WriteLine("Branch2 sukuriau po merge branch1 ir main");
             Console.WriteLine("Prirasiau kelias eilutes ir padariau keitimus eilutej #9");
+
+            Console.WriteLine("Merge pavyko pakoregavus pries tai buvusi etksta ir dadejus nauju eiluciu");
+            Console.WriteLine("Nice!");
         }
     }
 }
