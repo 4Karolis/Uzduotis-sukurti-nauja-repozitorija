@@ -15,6 +15,8 @@ namespace Nauja_Repozitorija
 
             Console.WriteLine("Merge pavyko pakoregavus pries tai buvusi etksta ir dadejus nauju eiluciu");
             Console.WriteLine("Nice!");
+
+            Console.WriteLine("Gerai, sitei veikia. Ciuju einu kelt darbu");
         }
     }
 }
