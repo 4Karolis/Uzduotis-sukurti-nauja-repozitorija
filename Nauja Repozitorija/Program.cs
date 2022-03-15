@@ -6,9 +6,12 @@ namespace Nauja_Repozitorija
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Sveiki visi!");
             Console.WriteLine("Pakoregavau MAIN'a sukures branch1");
             Console.WriteLine("Bandom merching branch1 su main");
+
+            Console.WriteLine("Branch2 sukuriau po merge branch1 ir main");
+            Console.WriteLine("Prirasiau kelias eilutes ir padariau keitimus eilutej #9");
         }
     }
 }
